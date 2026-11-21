@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # breathewise-asthma-risk-prediction-and-prevention
 breathewise is a machine learning based project designed to predict an individual risk of developing asthma based on their health related information 
 =======
@@ -36,3 +37,6 @@ The API compares held-out accuracy, ROC AUC, and F1 as engineering diagnostics. 
 
 Expected feature keys: `age`, `bmi`, `smoking`, `family_history`, `allergy`, `wheezing`, `night_symptoms`, `exercise_trigger`, `air_quality`, and `respiratory_infections`. Binary fields accept 0/1. `air_quality` is a demo ordinal input (0–3); all scores are educational outputs only.
 >>>>>>> c703819 (Initial commit)
+=======
+# Breathe-wise-asthma-risk-prediction-prevention
+>>>>>>> dd7977f8f945b06589011c339eea1861f5331b20
